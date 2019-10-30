@@ -33,6 +33,17 @@ const response = [
             'Next level vexillologist taiyaki migas cloud bread post-ironic. Offal selvage gastropub bitters.'
     },
     {
+        name: 'Weekend in Bali',
+        id: 13,
+        image: 'bali.jpg',
+        dateFrom: 'May 7th 2020',
+        dateTo: 'May 10th 2020',
+        guests: 2,
+        category: 'weekend break',
+        copy:
+            'Next level vexillologist taiyaki migas cloud bread post-ironic. Offal selvage gastropub bitters.'
+    },
+    {
         name: 'Hiking in the Peaks',
         id: 3,
         image: 'peaks.jpg',
